@@ -1,5 +1,7 @@
 The user plays against the program.
+
 a. The program randomly chooses 3 different numbers. The user wins when he/she guesses those 3 numbers.
+
 b. The user enters the 3 numbers that he/she guesses, the program produces the total number of “strike” or “ball.”
 	When the user correctly guesses both the number and its place, it is “strike”
 	When the user correctly guesses the number, but not its place, it is “ball”
