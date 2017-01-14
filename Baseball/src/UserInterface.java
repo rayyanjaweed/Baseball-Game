@@ -19,7 +19,7 @@ public class UserInterface {
 			while(userNumber == -1){
 				userNumber = AcceptUserInput.receiveUserInput();
 				if(userNumber == -1){
-					System.out.println("!!!!!!!You can only enter 3 digits to play the game!!!!!!!");
+					System.out.println("!!!!!!!You can only m,dfn,msndfenter 3 digits to play the game!!!!!!!");
 				}
 			}
 			//Split the number entered by user into 3 different digits
